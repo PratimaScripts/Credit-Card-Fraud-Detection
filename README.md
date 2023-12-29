@@ -12,6 +12,10 @@ Documentation for different steps involved in this project is added in individua
 
 Jupyter notebooks that demonstrate different scenarios related to data analysis, visualizations, and data access are included in the `notebooks` folder of this repository.
 
+## Datasets Definition
+
+Data definition: https://www.kaggle.com/c/ieee-fraud-detection/discussion/101203
+
 ## Table of Contents
 
 - **User Guides**
